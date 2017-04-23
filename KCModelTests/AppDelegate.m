@@ -3,7 +3,7 @@
 //  KCModelTests
 //
 //  Created by Koce on 2017/2/7.
-//  Copyright © 2017年 赵嘉诚. All rights reserved.
+//  Copyright © 2017年 Koce. All rights reserved.
 //
 
 #import "AppDelegate.h"

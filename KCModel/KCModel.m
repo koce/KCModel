@@ -3,7 +3,7 @@
 //  KCModel
 //
 //  Created by Koce on 16/11/25.
-//  Copyright © 2016年 赵嘉诚. All rights reserved.
+//  Copyright © 2016年 Koce. All rights reserved.
 //
 
 #import "KCModel.h"
